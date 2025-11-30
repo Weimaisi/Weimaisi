@@ -2,12 +2,11 @@
 
 # 🎮 [你的名字] - 游戏开发工程师
 
-**目标岗位**：腾讯/米哈游 游戏客户端开发  
+**目标岗位**：游戏客户端开发  
 **技术方向**：C++ • 游戏引擎 • 计算机图形学
 
 <!-- 联系徽章 -->
-[![Email](https://img.shields.io/badge/邮箱-q3563027286@outlook.com-D14836?style=flat-square&logo=gmail)](mailto:q3563027286@outlook.com)
-[![Blog](https://img.shields.io/badge/技术博客-点击访问-21759B?style=flat-square&logo=wordpress)](你的博客链接)
+[![Email](https://img.shields.io/badge/邮箱-q3563027286@outlook.com-0078D4?style=flat-square&logo=microsoft-outlook)](mailto:q3563027286@outlook.com)[![Blog](https://img.shields.io/badge/技术博客-点击访问-21759B?style=flat-square&logo=wordpress)](你的博客链接)
 [![Resume](https://img.shields.io/badge/在线简历-查看完整履历-4A154B?style=flat-square)](你的简历链接)
 
 </div>
