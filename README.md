@@ -7,7 +7,7 @@
 
 <!-- 联系徽章 -->
 [![Email](https://img.shields.io/badge/邮箱-q3563027286@outlook.com-0078D4?style=flat-square&logo=mail.ru)](mailto:q3563027286@outlook.com)
-[![Blog](https://img.shields.io/badge/技术博客-点击访问-21759B?style=flat-square&logo=wordpress)](你的博客链接)
+[![Blog](https://img.shields.io/badge/掘金主页-点击访问-21759B?style=flat-square&logo=wordpress)](https://juejin.cn/user/186241557738474)
 [![Resume](https://img.shields.io/badge/在线简历-查看完整履历-4A154B?style=flat-square)](你的简历链接)
 
 </div>
